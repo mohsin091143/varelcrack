@@ -2,8 +2,8 @@
   "allowedIps": ["175.107.226.13"],
   "users": [
     {
-      "username": "KASHMIRI01",
-      "password": "KASHMIRI01"
+      "username": "kashmiri01",
+      "password": "kashmiri01"
     },
     {
       "username": "ella",
